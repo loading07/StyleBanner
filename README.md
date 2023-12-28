@@ -8,6 +8,6 @@ Follow The Steps Below!
 > apt upgrade
 > apt install python2 -y
 > apt install git -y
-> git clone https://github.com/h20-studio/T4MPILAN-V5
-> cd T4MPILAN-V5
+> git clone https://github.com/loading07/StyleBanner
+> cd StyleBanner
 > python2 style5.py
